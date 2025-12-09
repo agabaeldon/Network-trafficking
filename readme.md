@@ -12,11 +12,6 @@ A complete machine learning-based framework for real-time network traffic predic
 
 ## 📚 Documentation
 
-**New to the system? Start here:**
-- 📖 **[USER_GUIDE.md](USER_GUIDE.md)** - Complete step-by-step user guide
-- 🤔 **[WHAT_IS_THIS_SYSTEM.md](WHAT_IS_THIS_SYSTEM.md)** - Simple explanation of what the system does
-- ⚡ **[QUICKSTART.md](QUICKSTART.md)** - Quick start instructions
-- 📋 **[RUN_INSTRUCTIONS.txt](RUN_INSTRUCTIONS.txt)** - Command reference
 
 ## Features
 
