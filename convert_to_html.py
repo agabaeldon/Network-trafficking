@@ -215,8 +215,8 @@ def convert_markdown_to_html(md_file, html_file):
     <button class="print-button" onclick="window.print()">🖨️ Print to PDF</button>
     {html_content}
     <script>
-        // Auto-print option (commented out - uncomment if you want auto-print)
-        // window.onload = function() { window.print(); }
+        /* Auto-print option (commented out - uncomment if you want auto-print) */
+        /* window.onload = function() {{ window.print(); }} */
     </script>
 </body>
 </html>"""
